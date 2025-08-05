@@ -13,7 +13,9 @@
 2. cd vpn-free
 3. pip install -r requirements.txt
 4. Salir de la CMD o GIT BASH e ir a la carpeta vpn-free
-5. abrir el enlace win-vpn.bat.lnk
+
+<img width="1366" height="768" alt="Screenshot-250805 04_02_09" src="https://github.com/user-attachments/assets/d20f0785-e973-45ce-92f6-08f65de04994" />
+
 
 
 
