@@ -5,7 +5,7 @@
 3. chmod 777 *
 4. sudo apt install openvpn python3
 5. pip install -r requirements.txt
-6. python3 vpn-free.py
+6. sudo python3 vpn-free.py
 
 
 * INSTALAR EN WINDOWS *
